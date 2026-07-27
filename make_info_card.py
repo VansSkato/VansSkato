@@ -23,9 +23,9 @@ NOW = "Ing. en Tecnologias Automotrices"
 PREV = "Automotive Engineering Student"
 STACK = "Python - C/C++ - MATLAB/Simulink - CAN bus - Git"
 HIGHLIGHTS = [
-    "Diagnostico y control de sistemas embebidos automotrices",
-    "Proyectos de telemetria y adquisicion de datos vehiculares",
-    "Siempre construyendo algo nuevo bajo el cofre (y en el codigo)",
+    "Built a Trassmision Control Unit(TCU) on NXP micro",
+    "Implemented FreeRTOS for real-time task scheduling",
+    "Structed software around AUTOSAR standars",
 ]
 # -----------------------------------------------------------------------------
 
